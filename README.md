@@ -2,6 +2,8 @@
 
 Give your keyboard superpowers. Bind custom actions to double-taps and triple-taps on *any* key, without breaking your normal typing.
 
+![RE:Key Control Center](screenshot.png)
+
 RE:Key sits in your system tray and listens for your custom multi-press triggers to launch apps, run scripts, or fire shortcuts.
 
 ---
@@ -72,7 +74,7 @@ Your compiled app will be ready in the `dist/` folder.
 
 ---
 
-## ⚠️ Heads Up
+## ⚠️ Real Talk (Heads Up)
 
 - **Antivirus Flags**: Because the app hooks into your keyboard system-wide to catch multi-presses, some antivirus software might flag it as a keylogger. This is a common false positive with Python keyboard hooking libraries.
 - **Admin Rights**: Some elevated windows (like Task Manager or Command Prompt) won't accept simulated keys unless RE:Key is run as Administrator.
