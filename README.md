@@ -23,7 +23,7 @@ RE:Key sits in your system tray and listens for your custom multi-press triggers
 
 ## 🚀 Getting Started
 
-If you just want to use the app, grab the latest standalone `.exe` from the [Releases](#) tab (no Python setup needed).
+If you just want to use the app, grab the latest standalone `.exe` from the [Releases](https://github.com/RasturisedCookie/RE-Key/releases) tab (no Python setup needed).
 
 ### Running from Source
 
