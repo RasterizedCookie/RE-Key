@@ -78,7 +78,7 @@ Your compiled app will be ready in the `dist/` folder.
 
 - **Antivirus Flags**: Because the app hooks into your keyboard system-wide to catch multi-presses, some antivirus software might flag it as a keylogger. This is a common false positive with Python keyboard hooking libraries.
 - **Admin Rights**: Some elevated windows (like Task Manager or Command Prompt) won't accept simulated keys unless RE:Key is run as Administrator.
-- **Discliamer**: This doesnt have anything to do with Resident Evil, I am just a big fan.
+- **Disclaimer**: This doesnt have anything to do with Resident Evil, I am just a big fan.
 
 ---
 
